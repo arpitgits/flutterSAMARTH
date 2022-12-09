@@ -1,0 +1,168 @@
+{
+  "project_info": {
+    "project_number": "18609274811",
+    "firebase_url": "https://samarth-1226.firebaseio.com",
+    "project_id": "samarth-1226",
+    "storage_bucket": "samarth-1226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18609274811:android:2497eef13822c90f0b4e9e",
+        "android_client_info": {
+          "package_name": "com.example.smth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18609274811-br2mmbkrqp62rln7jdh3kap6aipdnc6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhlCJrGY26GprMDs85YJEiTpP3DHg-2jo"
+        },
+        {
+          "current_key": "AIzaSyAw_a5WYr2pcxf9oCs9mB-vHj9Mz_gsIZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18609274811-br2mmbkrqp62rln7jdh3kap6aipdnc6j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "18609274811-v3oaqvlub5nm9dnlard9vm0rb07kfcnl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "community.samarth.care"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18609274811:android:1399a5fa3d0bd7a2",
+        "android_client_info": {
+          "package_name": "com.samarth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18609274811-733r320tckieg1npnbem5jh8ma11pnqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samarth",
+            "certificate_hash": "4ec881e494bc726d2bc290de0bd38fac52139b27"
+          }
+        },
+        {
+          "client_id": "18609274811-plsvvdomua1g0aig0ioid6ut50p8llu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samarth",
+            "certificate_hash": "a10740c03deada444a5453bcf8eea8eebbe53aa0"
+          }
+        },
+        {
+          "client_id": "18609274811-br2mmbkrqp62rln7jdh3kap6aipdnc6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhlCJrGY26GprMDs85YJEiTpP3DHg-2jo"
+        },
+        {
+          "current_key": "AIzaSyAw_a5WYr2pcxf9oCs9mB-vHj9Mz_gsIZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18609274811-br2mmbkrqp62rln7jdh3kap6aipdnc6j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "18609274811-v3oaqvlub5nm9dnlard9vm0rb07kfcnl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "community.samarth.care"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18609274811:android:e81af94089cef44b",
+        "android_client_info": {
+          "package_name": "org.samarthlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18609274811-2tsmgim2n2h88553hsn9rkkp5st0lu18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.samarthlife",
+            "certificate_hash": "a10740c03deada444a5453bcf8eea8eebbe53aa0"
+          }
+        },
+        {
+          "client_id": "18609274811-72k46inbs2ki6t49mj02a4flgr7n7153.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.samarthlife",
+            "certificate_hash": "98ed581423657139984710830609379755a5177a"
+          }
+        },
+        {
+          "client_id": "18609274811-qeghikkl5k47e6hmrcdonnf50gb7a9bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.samarthlife",
+            "certificate_hash": "42172323c3a334fa9e1d719790be2cb4f247df1c"
+          }
+        },
+        {
+          "client_id": "18609274811-br2mmbkrqp62rln7jdh3kap6aipdnc6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhlCJrGY26GprMDs85YJEiTpP3DHg-2jo"
+        },
+        {
+          "current_key": "AIzaSyAw_a5WYr2pcxf9oCs9mB-vHj9Mz_gsIZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18609274811-br2mmbkrqp62rln7jdh3kap6aipdnc6j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "18609274811-v3oaqvlub5nm9dnlard9vm0rb07kfcnl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "community.samarth.care"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
